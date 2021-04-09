@@ -9,9 +9,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)]
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)]
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)]
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 ### Technologies
