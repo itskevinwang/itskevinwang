@@ -22,5 +22,3 @@
 <p align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=itskevinwang&hide=stars&show_icons=true&theme=calm&line_height=32">
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
