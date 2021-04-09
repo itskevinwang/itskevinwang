@@ -2,10 +2,6 @@
 
 <h3 align="center">  CS Student | Data Scientist | Developer Advocate </h3> <br>
 
-<p align="center"> 
-<a href="https://www.linkedin.com/in/itskevinwang/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Kevin_Wang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itskevinwang/"></a>
-</p>
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Languages
 
@@ -20,8 +16,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Profile stats
