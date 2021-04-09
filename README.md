@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Kevin 👨‍💻 </h1>
 
-<h3 align="center">  CS Student | Data Scientist | Developer Advocate </h3> <br>
+<h3 align="center">  CS Student | Data Scientist | Developer Advocate </h3>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Languages
