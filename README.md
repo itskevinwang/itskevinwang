@@ -3,6 +3,16 @@
 <h3 align="center">  CS Student | Data Scientist | Developer Advocate </h3>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### About
+-  **Pronouns :** He/Him/His
+-  **Working :** Data Science Research
+-  **Learning :** Deep Learning
+-  **Hobbies :** Music, Reading
+-  **Ask me about :** Anything!
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
