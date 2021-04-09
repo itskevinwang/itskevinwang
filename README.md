@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Kevin 👨‍💻 </h1>
+<h1 align="center"> Hi, I'm Kevin! </h1>
 
 <h3 align="center">  CS Student | Data Scientist | Developer Advocate </h3>
 
@@ -29,6 +29,4 @@
 
 ### Profile Stats
 
-<p align="left">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=itskevinwang&hide=stars&show_icons=true&theme=calm&line_height=32">
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=itskevinwang&hide=stars&show_icons=true&theme=calm&line_height=32">
