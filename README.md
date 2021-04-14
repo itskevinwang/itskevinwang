@@ -11,6 +11,8 @@
 -  **Hobbies :** Music, Reading
 -  **Ask me about :** Anything!
 
+**Important Note:** Most of my repositories are hidden due to course projects, but please feel free to email me if you'd like to have a look!
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Languages
