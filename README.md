@@ -1,12 +1,12 @@
 <h1 align="center"> Hi, I'm Kevin! </h1>
 
-<h3 align="center"> Comp Sci Student | Data Scientist | Developer Advocate </h3>
+<h3 align="center"> CS @ UC Berkeley | ML/DL Researcher | Developer Advocate </h3>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### About
 -  **Pronouns :** He/Him/His
--  **Working :** Data Science Research
+-  **Working :** ML/DL Research
 -  **Learning :** Deep Learning
 -  **Hobbies :** Music, Reading
 -  **Ask me about :** Anything!
