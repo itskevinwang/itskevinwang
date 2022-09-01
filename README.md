@@ -1,9 +1,9 @@
 <h1 align="center"> Hi, I'm Kevin! </h1>
 
 ### About
--  **Pronouns :** He/Him/His
--  **Working :** ML/DL Research
--  **Learning :** Deep Learning
+-  **Pronouns :** He/Him
+-  **Working :** Research
+-  **Learning :** Computer Science
 -  **Hobbies :** Music, Reading
 -  **Ask me about :** Anything!
 
