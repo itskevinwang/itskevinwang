@@ -1,9 +1,5 @@
 <h1 align="center"> Hi, I'm Kevin! </h1>
 
-<h3 align="center"> CS @ UC Berkeley | ML/DL Researcher | Developer Advocate </h3>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ### About
 -  **Pronouns :** He/Him/His
 -  **Working :** ML/DL Research
