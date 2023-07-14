@@ -2,10 +2,10 @@
 
 ### About
 -  **Pronouns :** He/Him
--  **Working :** Research
--  **Learning :** Computer Science
--  **Hobbies :** Music, Reading
--  **Ask me about :** Anything!
+-  **Working :** Software Development 👨🏻‍💻, Gen AI 🎨, LLMs 📄
+-  **Learning :** Computer Science 💻
+-  **Hobbies :** Music 🎵, Reading 📖
+-  **Ask me about :** Machine Leaning, Research, Software Engineering
 
 **Note:** Most of my repositories including course projects and research work are hidden. If you'd like to see these and have a valid reason, feel free to send me an email and request my gitfront.io link.
 
