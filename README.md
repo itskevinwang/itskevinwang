@@ -2,7 +2,7 @@
 
 ### About
 -  **Pronouns :** He/Him
--  **Working :** Software Development 👨🏻‍💻, Gen AI 🎨, LLMs 📄
+-  **Working On :** Software Development 👨🏻‍💻, Gen AI 🎨, LLMs 📄
 -  **Learning :** Computer Science 💻
 -  **Hobbies :** Music 🎵, Reading 📖
 -  **Ask me about :** Machine Leaning, Research, Software Engineering
