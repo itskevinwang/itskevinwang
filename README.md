@@ -2,8 +2,8 @@
 
 ### About
 -  **Pronouns :** He/Him
--  **Working On :** Software Development 👨🏻‍💻, Gen AI 🎨, LLMs 📄
--  **Ask me about :** Machine Leaning, Research, Software Engineering
+-  I work on Software Development 👨🏻‍💻, Gen AI 🎨, and LLMs 📄
+-  Ask me about Machine Leaning, Research, and Software Engineering!
 
 **Note:** Most of my repositories including course projects and research work are hidden. If you'd like to see these and have a valid reason, feel free to send me an email and request my gitfront.io link.
 
