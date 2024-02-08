@@ -1,10 +1,5 @@
 <h1 align="center"> Hi, I'm Kevin! </h1>
 
-### About
--  **Pronouns :** He/Him
--  I work on Software Development 👨🏻‍💻, Gen AI 🎨, and LLMs 📄
--  Ask me about Machine Leaning, Research, and Software Engineering!
-
 **Note:** Most of my repositories including course projects and research work are hidden. If you'd like to see these and have a valid reason, feel free to send me an email and request my gitfront.io link.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,6 +7,7 @@
 ### Technology Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
